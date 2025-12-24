@@ -27,7 +27,7 @@ Tools & frameworks I use often:
 
 ---
 
-## ⭐ Selected projects
+## ⭐ Some projects
 
 - Boterview — AI Interview Bot  
   An interview assistant that simulates interview scenarios and provides feedback to help candidates improve.  
@@ -46,7 +46,6 @@ My project repos are public on my GitHub profile — feel free to browse demos, 
 ---
 
 ## 📫 Where to find me
-- Website: https://haasith-srinivasa.vercel.app/  
 - LinkedIn: https://www.linkedin.com/in/srinivasa-haasith-sarangam-754149351  
 - GitHub: https://github.com/DankNub901  
 Location: Toronto — Open to work (contract/full-time/collaboration)
@@ -65,5 +64,3 @@ Thanks for stopping by — if you like prompts, pipelines, or pizza, we probably
 
 ---
 
-## GitHub stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DankNub901&show_icons=true&count_private=true&theme=radical)
