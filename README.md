@@ -43,20 +43,6 @@ Tools & frameworks I use often:
 
 My project repos are public on my GitHub profile — feel free to browse demos, code, and notes there.
 
----
-
-## 📫 Where to find me
-- LinkedIn: https://www.linkedin.com/in/srinivasa-haasith-sarangam-754149351  
-- GitHub: https://github.com/DankNub901  
-Location: Toronto — Open to work (contract/full-time/collaboration)
-
----
-
-## ⚡ How I like to work
-- Iterate quickly with small, testable prototypes that validate value
-- Use vector search & RAG when users need grounded answers
-- Automate deployments and monitoring so models stay useful long-term
-- Keep documentation and tests close to the codebase
 
 ---
 
