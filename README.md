@@ -46,7 +46,6 @@ My project repos are public on my GitHub profile — feel free to browse demos, 
 
 ---
 
-Thanks for stopping by — if you like prompts, pipelines, or pizza, we probably have something to talk about. 🍕🚀
+Thanks for stopping by!
 
----
 
